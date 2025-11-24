@@ -135,3 +135,15 @@ You should see the final application running!
 
 ---
 
+
+
+
+
+
+IMP for Docker-Compose
+
+1.jdbc:mysql://db:3306/studentapp 
+
+2.CREATE DATABASE IF NOT EXISTS studentapp;
+USE studentapp;
+
